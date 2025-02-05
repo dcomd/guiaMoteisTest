@@ -1,8 +1,4 @@
-# guia_de_moteis
-
-A new Flutter project.
-
-## Getting Started
+# Guia de moteis
 
 Motéis Disponíveis - App Flutter
 Este projeto é um aplicativo desenvolvido com Flutter para exibir uma lista de motéis com suas suítes e períodos de reserva. O app utiliza o Riverpod para gerenciamento de estado e exibe imagens dos motéis, detalhes sobre as suítes e seus preços, além de oferecer a possibilidade de visualização de fotos adicionais das suítes.
